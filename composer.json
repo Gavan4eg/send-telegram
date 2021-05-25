@@ -1,5 +1,5 @@
 {
-    "name": "gavan4eg/sendtelegram",
+    "name": "gavan4eg1/sendtelegram",
     "description": "Send Message Telegram",
     "license": "MIT",
     "authors": [
@@ -9,11 +9,11 @@
             "homepage": "https://example1.com"
         }
     ],
-    "homepage": "https://github.com/gavan4eg/sendtelegram",
+    "homepage": "https://github.com/Gavan4eg/send-telegram",
     "keywords": ["Laravel", "SendTelegram"],
     "require": {
         "illuminate/support": "~7|~8",
-        "gavan4eg1/sendtelegram": "1.1.*",
+        "gavan4eg/sendtelegram": "*",
         "ext-json": "*"
     },
     "require-dev": {
